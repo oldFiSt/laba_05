@@ -4,7 +4,7 @@
 ---
 <details>
 
-<summary>👩‍💻 Сборка на Windows</summary>
+<summary>👩‍💻 Сборка на Windows (Протестировано на Qt 6.9.0)</summary>
 
 - Необходимо установить Qt Creator.
 Гайд по установке: https://vc.ru/dev/1125830-kak-ustanovit-qt-qt5-qt6-v-rossii-cherez-onlain-installyator-pri-blokirovke-ip-adresov
@@ -36,7 +36,7 @@ D\Qt\6.9.0\mingw_64\bin\windeployqt -- dir D\Sea_Game D:\WW\release\SeaBattle.ex
 
 <details>
 
-<summary>💻 Сборка на Linux</summary>
+<summary>💻 Сборка на Linux (Протестировано на Qt 6.4.2) </summary>
 
 - Устанавливаем Qt Creator.
 Гайд по установке: https://vc.ru/dev/1125830-kak-ustanovit-qt-qt5-qt6-v-rossii-cherez-onlain-installyator-pri-blokirovke-ip-adresov
@@ -52,7 +52,7 @@ D\Qt\6.9.0\mingw_64\bin\windeployqt -- dir D\Sea_Game D:\WW\release\SeaBattle.ex
   <img width="68" height="133" alt="изображение" src="https://github.com/user-attachments/assets/568b1df4-f957-4a4c-b808-a5b4fd128d6c" />
 
 - Запускаем сборку и ждём ее окончания.
-- После сборки заходим в папку build/Desktop-Debug и находим там исоплняемый файл - SeaBattle. Это и есть наша игра. Пример можно наблюдать ниже.
+- После сборки заходим в папку build/Desktop-Debug и находим там исоплняемый файл - `SeaBattle`. Это и есть наша игра. Пример можно наблюдать ниже.
 
 <img width="1474" height="429" alt="изображение" src="https://github.com/user-attachments/assets/d1eb14fe-bf1c-494b-a1b9-c137f69e68b1" />
 
